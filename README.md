@@ -5,7 +5,7 @@ If you have any questions, please contact me through shurp12138@gmail.com.
 <p align="center">Table of contents</p>
 
 [PostgreSQL-001.How to Compiling and installing PostGIS 3.4.2 from source in Rocky Linux 9.4 and PostgreSQL 16.3](https://github.com/Jerry-Freelancer/PostgreSQL_cases/blob/main/001.How%20to%20Compiling%20and%20installing%20postgis%203.4.2%20from%20source%20in%20Rocky%20Linux%209.4%20and%20PostgreSQL%2016.3.md)<br>
-[PostgreSQL-002.How to install PostgreSQL 16.3 on Ubuntu 24.04](https://github.com/Jerry-Freelancer/PostgreSQL_cases/blob/main/001.How%20to%20Compiling%20and%20installing%20postgis%203.4.2%20from%20source%20in%20Rocky%20Linux%209.4%20and%20PostgreSQL%2016.3.md)<br>
+[PostgreSQL-002.How to install PostgreSQL 16.3 on Ubuntu 24.04](https://github.com/Jerry-Freelancer/PostgreSQL_Cases/blob/main/002.How%20to%20install%20PostgreSQL%2016.3%20%20on%20Ubuntu%2024.04.md)<br>
 
 
 
